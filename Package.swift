@@ -12,8 +12,8 @@ let package = Package(
     ],
     dependencies: [
         // .package(url: /* package url */, from: "1.0.0"),
-        .package(url: "https://github.com/shibapm/Komondor.git", from: "1.0.6"), // dev
-        .package(url: "https://github.com/shibapm/Rocket", from: "1.1.0"), // dev
+//        .package(url: "https://github.com/shibapm/Komondor.git", from: "1.0.6"), // dev
+//        .package(url: "https://github.com/shibapm/Rocket", from: "1.1.0"), // dev
     ],
     targets: [
         .target(
